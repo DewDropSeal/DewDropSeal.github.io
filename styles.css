@@ -33,6 +33,7 @@ h3{
     margin: 100px auto;
     border:2px solid white;
     background-color: rgb(203, 230, 230);
+    display:flex;
   
 }
 
